@@ -335,7 +335,7 @@ if page == "🏠 Home":
 
     
     ### 📫 Contact:
-    - Email: fitri.wdarojati@email.com  
+    - Email: fitri.wdarojati@gmail.com  
     - GitHub: [github](https://github.com/fitdrjt)
     """)
 

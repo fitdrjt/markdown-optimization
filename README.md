@@ -9,5 +9,7 @@ The goal of this project is to build a machine learning-based simulation tool th
 
 ## What This Project Does
 •	Uses machine learning to predict sales performance after applying various markdown levels.
+
 •	Simulates multiple price scenarios to find the markdown that maximizes revenue (not just sales).
+
 •	Compares results against a baseline (historical sales with original price) to calculate revenue improvement.

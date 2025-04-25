@@ -51,3 +51,4 @@ tifffile==2025.3.30
 toml
 toolz==1.0.0
 tqdm==4.67.1
+xgboost

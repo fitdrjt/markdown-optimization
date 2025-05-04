@@ -1,4 +1,4 @@
-# From Price Cuts To Profit Gains:
+# From Price Cuts To Profit Gains
 A machine learning project that simulates and recommends optimal markdowns to maximize retail revenue
 
 ## Overview
